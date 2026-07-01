@@ -4,6 +4,7 @@ public class Shilpa{
         int b=50;
         int result=a+b;
         System.out.println(result);
+        System.out.println("hello");
         
     }
 }
